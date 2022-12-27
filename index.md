@@ -16,10 +16,10 @@ This is the webpage of Ruoyu Li (Roy, 李若愚). I am currently a forth-year Ph
 
 ## Publications
 
-- *Ruoyu Li*, Qing Li, Yucheng Huang, Wenbin Zhang, Peican Zhu, Yong Jiang, [IoTEnsemble: Detection of Botnet Attacks on Internet of Things](https://link.springer.com/chapter/10.1007/978-3-031-17146-8_28), in 27th European Symposium on Research in Computer Security (ESORICS), 2022 (acceptance rate: 18.5\%), doi: <10.1007/978-3-031-17146-8_28>.
-- *Ruoyu Li*, Qing Li, Jianer Zhou and Yong Jiang, [ADRIoT: An Edge-assisted Anomaly Detection Framework against IoT-based Network Attacks](https://ieeexplore.ieee.org/document/9585043/), in IEEE Internet of Things Journal (JCR Q1), 2021, doi: <10.1109/JIOT.2021.3122148>.
-- Aman Singh, Shashank Murali, Lalka Rieger, *Ruoyu Li*, Stefan Hommes, Radu State, Gaston Ormazabal, Henning Schulzrinne, [HANZO: Collaborative Network Defense for Connected Things](https://ieeexplore.ieee.org/document/8567639), 2018 Principles, Systems and Applications of IP Telecommunications (IPTComm), 2018, pp. 1-8, doi: <10.1109/IPTCOMM.2018.8567639>.
-- Bo Wu, Qi Li, Ke Xu, *Ruoyu Li* and Zhuotao Liu, [SmartRetro: Blockchain-Based Incentives for Distributed IoT Retrospective Detection](https://ieeexplore.ieee.org/document/8567575), 2018 IEEE 15th International Conference on Mobile Ad Hoc and Sensor Systems (MASS), 2018, pp. 308-316, doi: <10.1109/MASS.2018.00053>.
+- *Ruoyu Li*, Qing Li, Yucheng Huang, Wenbin Zhang, Peican Zhu, Yong Jiang, [IoTEnsemble: Detection of Botnet Attacks on Internet of Things](https://link.springer.com/chapter/10.1007/978-3-031-17146-8_28), in 27th European Symposium on Research in Computer Security (ESORICS), 2022 (acceptance rate: 18.5\%), doi: 10.1007/978-3-031-17146-8_28.
+- *Ruoyu Li*, Qing Li, Jianer Zhou and Yong Jiang, [ADRIoT: An Edge-assisted Anomaly Detection Framework against IoT-based Network Attacks](https://ieeexplore.ieee.org/document/9585043/), in IEEE Internet of Things Journal (JCR Q1), 2021, doi: 10.1109/JIOT.2021.3122148.
+- Aman Singh, Shashank Murali, Lalka Rieger, *Ruoyu Li*, Stefan Hommes, Radu State, Gaston Ormazabal, Henning Schulzrinne, [HANZO: Collaborative Network Defense for Connected Things](https://ieeexplore.ieee.org/document/8567639), 2018 Principles, Systems and Applications of IP Telecommunications (IPTComm), 2018, pp. 1-8, doi: 10.1109/IPTCOMM.2018.8567639.
+- Bo Wu, Qi Li, Ke Xu, *Ruoyu Li* and Zhuotao Liu, [SmartRetro: Blockchain-Based Incentives for Distributed IoT Retrospective Detection](https://ieeexplore.ieee.org/document/8567575), 2018 IEEE 15th International Conference on Mobile Ad Hoc and Sensor Systems (MASS), 2018, pp. 308-316, doi: 10.1109/MASS.2018.00053.
 
 
 ## Ongoing Works
