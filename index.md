@@ -25,10 +25,10 @@ This is the webpage of Ruoyu Li (Roy, 李若愚). I am currently a forth-year Ph
 
 ## Ongoing Works
 
-- A paper about IoT device fingerprinting in high-speed ISP networks is submitted to CCS 2023 (first author).
+- A paper about IoT device fingerprinting in high-speed ISP networks is submitted to ToN (first author).
 - A paper about IoT digital twins and synthetic traffic generation is submitted to JSAC (first author).
 - A paper about real-time malicious traffic detection is submitted to USENIX Security 2023 and is accepted conditional on major revision (co-author).
-- A paper about anomaly detection on smart home devices is submitted to DSN 2023 (co-author).
+- A paper about anomaly detection on smart home devices is submitted to MobiCom 2023 (co-author).
 - A paper about traffic classification by programmable switches is submitted to TDSC (co-author).
 - A review paper about DDoS defense systems is submitted to Computer & Security (co-author).
 
