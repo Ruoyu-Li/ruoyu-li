@@ -30,7 +30,8 @@ This is the webpage of Ruoyu Li (Roy, 李若愚). I am currently a forth-year Ph
 - A paper about real-time malicious traffic detection is submitted to USENIX Security 2023 and is accepted conditional on major revision (co-author).
 - A paper about anomaly detection on smart home devices is submitted to MobiCom 2023 (co-author).
 - A paper about traffic classification by programmable switches is submitted to TDSC (co-author).
-- A review paper about DDoS defense systems is submitted to Computer & Security (co-author).
+- A paper about regular expression in programmable data plane is submitted to ACM SIGCOMM 2023 (co-author).
+- A review paper about DDoS defense systems is submitted to Computer & Security and is under revision (co-author).
 
 ## Teaching
 
