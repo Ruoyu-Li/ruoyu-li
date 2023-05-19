@@ -18,17 +18,19 @@ This is the webpage of Ruoyu Li (Roy, 李若愚). I am currently a forth-year Ph
 
 - *Ruoyu Li*, Qing Li, Yucheng Huang, Wenbin Zhang, Peican Zhu, Yong Jiang, [IoTEnsemble: Detection of Botnet Attacks on Internet of Things](https://link.springer.com/chapter/10.1007/978-3-031-17146-8_28), in 27th European Symposium on Research in Computer Security (ESORICS), 2022 (CCF-B, acceptance rate: 18.5%).
 - *Ruoyu Li*, Qing Li, Jianer Zhou and Yong Jiang, [ADRIoT: An Edge-assisted Anomaly Detection Framework against IoT-based Network Attacks](https://ieeexplore.ieee.org/document/9585043/), in IEEE Internet of Things Journal, 2021 (JCR Q1, IF: 10.238).
-- Qingsong Zou, Qing Li, *Ruoyu Li*, Yucheng Huang, Gareth Tyson, Jingyu Xiao, Yong Jiang, IoTBeholder: A Privacy Snooping Attack on User Habitual Behaviors from Smart Home Wi-Fi Traffic, accepted by Ubicomp/IMWUT 2023 (CCF-A).
+- Yutao Dong, Qing Li, Kaidong Wu, *Ruoyu Li*, Dan Zhao, Gareth Tyson, Junkun Peng, Yong Jiang, Shutao Xia, Mingwei Xu, HorusEye: Realtime IoT Malicious Traffic Detection Framework with Programmable Switches, accepted by USENIX Security 2023 (CCF-A, Big 4)
+- Qingsong Zou, Qing Li, *Ruoyu Li*, Yucheng Huang, Gareth Tyson, Jingyu Xiao, Yong Jiang, [IoTBeholder: A Privacy Snooping Attack on User Habitual Behaviors from Smart Home Wi-Fi Traffic](https://dl.acm.org/doi/abs/10.1145/3580890), ACM International Conference on Ubiquitous Computing (Ubicomp), 2023 (CCF-A).
 - Aman Singh, Shashank Murali, Lalka Rieger, *Ruoyu Li*, Stefan Hommes, Radu State, Gaston Ormazabal, Henning Schulzrinne, [HANZO: Collaborative Network Defense for Connected Things](https://ieeexplore.ieee.org/document/8567639), 2018 Principles, Systems and Applications of IP Telecommunications (IPTComm), 2018, pp. 1-8.
 - Bo Wu, Qi Li, Ke Xu, *Ruoyu Li* and Zhuotao Liu, [SmartRetro: Blockchain-Based Incentives for Distributed IoT Retrospective Detection](https://ieeexplore.ieee.org/document/8567575), 2018 IEEE 15th International Conference on Mobile Ad Hoc and Sensor Systems (MASS), 2018, pp. 308-316.
 
 
 ## Ongoing Works
 
-- A paper about IoT device fingerprinting in high-speed ISP networks is submitted to ToN (first author).
-- A paper about IoT digital twins and synthetic traffic generation is submitted to JSAC (first author).
+- A paper about IoT device fingerprinting is submitted to ToN (first author).
+- A paper about IoT synthetic traffic generation is submitted to TMC (first author).
+- A paper about rule extraction of anomaly detection is submitted to NeurIPS (first author).
 - A paper about real-time malicious traffic detection is submitted to USENIX Security 2023 and is accepted conditional on major revision (co-author).
-- A paper about anomaly detection on smart home devices is submitted to MobiCom 2023 (co-author).
+- A paper about anomaly detection on smart home is submitted to MobiCom 2023 (co-author).
 - A paper about traffic classification by programmable switches is submitted to TDSC (co-author).
 - A paper about regular expression in programmable data plane is submitted to ACM SIGCOMM 2023 (co-author).
 - A review paper about DDoS defense systems is submitted to Computer & Security and is under revision (co-author).
